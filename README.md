@@ -7,7 +7,7 @@
 Are you new to the world of stream data processing ? Or are you looking for reference how others are running Flink ?
 
 - **What** problems companies aim to solve with Flink? 📝
-- **How** Apache Flink use case evolves over the years? :star_struck:
+- **How** Flink use case evolves over the years? :star_struck:
 - **How** companies go around with running Flink at scale? :rocket:
 
 ## Table of Contents
