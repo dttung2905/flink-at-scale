@@ -106,6 +106,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 ## Netflix
 
+- [Streaming SQL in Data Mesh](https://netflixtechblog.com/streaming-sql-in-data-mesh-0d83f5a00d08) - `2023` - :books:
 - [2021 Apache Flink Meetup - Hosted by Netflix](https://www.youtube.com/watch?v=rtz3p_iijP8&t=2420s&ab_channel=NetflixData) - `2021` - :studio_microphone:
 - [Building metric platform using Flink for massive scale at Netflix - Abhay Amin](https://www.youtube.com/watch?v=AUreuwzU4nA&ab_channel=FlinkForward) - `2020` - :studio_microphone:
 - [Flink Meetup at Netflix (Los Gatos) - January 28, 2020](https://www.youtube.com/watch?v=lvYgCGrwMK0&ab_channel=NetflixData) - `2020` - :studio_microphone:
