@@ -33,6 +33,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 1. [Salesforce](#salesforce)
 1. [Shopify](#shopify)
 1. [Uber](#uber)
+1. [Yelp](#yelp)
 1. [Zalando](#zalando)
 1. [Zhongyuan Bank](#zhongyuan-bank)
 
@@ -149,6 +150,14 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 - [Building Flink As a Service platform at Uber - Shuyi Chen & Rong Rong](https://www.youtube.com/watch?v=VX3S9POGAdU&ab_channel=FlinkForward) - `2019` - :studio_microphone:
 - [Practical Experience running Flink in Production - Shuyi Chen & Rong Rong](https://www.youtube.com/watch?v=eBrjgU-sjwM&ab_channel=FlinkForward) - `2019` - :studio_microphone:
 - [#FlinkForward SF 2017: Liu & Mai - AthenaX: Uber’s streaming processing platform on Flink](https://www.youtube.com/watch?v=VURuT8GbExo&ab_channel=FlinkForward) - `2017` - :studio_microphone:
+
+## Yelp 
+- [Flink on PaaSTA: Yelp’s new stream processing platform runs on Kubernetes](https://engineeringblog.yelp.com/2020/10/flink-on-paasta.html) - `2020` - :books:
+- [Realtime bot detection with Flink](https://www.youtube.com/watch?v=1GefkDe7Ul8&ab_channel=FlinkForward) - `2020` - :studio_microphone:
+- [Kubernetes + Operator + PaaSTA = Flink @ Yelp - Antonio Verardi](https://www.youtube.com/watch?v=hL5nNAMx8Bk&ab_channel=FlinkForward) - `2019` - :studio_microphone:
+- [Stream SQL with Flink @ Yelp - Enrico Canzonieri](https://www.youtube.com/watch?v=QQJnHYXdl5g&ab_channel=FlinkForward) - `2019` - :studio_microphone:
+- [How Yelp uses Flink for predicting store visits in real time](https://www.ververica.com/blog/how-yelp-uses-flink-for-predicting-store-visits-in-real-time) - `2019` - :books:
+- [Powering Yelp’s Data Pipeline Infrastructure with Apache Flink - Enrico Canzonieri](https://www.youtube.com/watch?v=CmBP5bUd2OU&ab_channel=FlinkForward) - `2018` - :studio_microphone:
 
 ## Zalando
 
