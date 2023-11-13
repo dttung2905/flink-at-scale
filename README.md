@@ -30,6 +30,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 1. [Netflix](#netflix)
 1. [Palo Alto Network](#palo-alto-network)
 1. [Pinterest](#pinterest)
+1. [Reddit](#reddit)
 1. [Salesforce](#salesforce)
 1. [Shopify](#shopify)
 1. [Uber](#uber)
@@ -129,6 +130,10 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 - [Unified Flink Source at Pinterest: Streaming Data Processing](https://medium.com/pinterest-engineering/unified-flink-source-at-pinterest-streaming-data-processing-c9d4e89f2ed6) - `2021` - :books:
 - [Faster Flink adoption with self-service diagnosis tool at Pinterest](https://medium.com/pinterest-engineering/faster-flink-adoption-with-self-service-diagnosis-tool-at-pinterest-50a07143f444) - `2021` - :books:
 - [Real-time experiment analytics at Pinterest using Apache Flink](https://medium.com/pinterest-engineering/real-time-experiment-analytics-at-pinterest-using-apache-flink-841c8df98dc2) - `2019` - :books:
+
+## Reddit
+
+- [Keeping Redditors safe in real-time with Flink Stateful Functions](https://www.youtube.com/watch?v=lWCt4t1Dhvc) 🎙️
 
 ## Salesforce
 
