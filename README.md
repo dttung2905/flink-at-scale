@@ -133,7 +133,8 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 ## Reddit
 
-- [Keeping Redditors safe in real-time with Flink Stateful Functions](https://www.youtube.com/watch?v=lWCt4t1Dhvc) 🎙️
+- [Protecting Reddit Users in Real Time at Scale](https://www.reddit.com/r/RedditEng/comments/16m3t7m/protecting_reddit_users_in_real_time_at_scale/) - `2023` - :books:
+- [Keeping Redditors safe in real-time with Flink Stateful Functions](https://www.youtube.com/watch?v=lWCt4t1Dhvc) - `2021` - :studio_microphone:
 
 ## Salesforce
 
