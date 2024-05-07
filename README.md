@@ -153,6 +153,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 ## Uber
 
+- [Driving Real-Time Data Solutions: Insights from Uber's Na Yang](https://www.ververica.com/blog/driving-real-time-data-solutions-insights-from-ubers-na-yang) - `2024` - :books:
 - [Real-Time Exactly-Once Ad Event Processing with Apache Flink, Kafka, and Pinot](https://www.uber.com/en-GB/blog/real-time-exactly-once-ad-event-processing/) - `2021` - :books:
 - [Powering OLAP at Uber using Apache Flink](https://www.youtube.com/watch?app=desktop&v=SbPO7MHdwEc&ab_channel=FlinkForward) - `2020` - :studio_microphone:
 - [[Uber Seattle] Introduction to Kappa+ Architecture using Apache Flink](https://www.youtube.com/watch?v=4qSlsYogALo&ab_channel=UberEngineering) - `2019` - :studio_microphone:
