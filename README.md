@@ -21,6 +21,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 1. [ContentSquare](#contentsquare)
 1. [Criteo](#criteo)
 1. [Deliveroo](#deliveroo)
+1. [Deloitte](#Deloitte)
 1. [Doordash](#doordash)
 1. [Ebay](#ebay)
 1. [GoTo](#goto)
@@ -80,6 +81,10 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 - [The road to running Apache Flink applications on AWS KDA](https://deliveroo.engineering/2023/03/30/the-road-to-run-apache-flink-applications-on-aws-kda.html) - `2023` - :books:
 - [How Apache Flink Delivers for Deliveroo](https://www.youtube.com/watch?v=FWPmGpvemF0&ab_channel=TheNewStack) - `2023` - :studio_microphone:
+
+## Deloitte 
+
+- [Simplify Stream Processing With Serverless Apache Flink® From Confluent and Deloitte](https://engineering.deloitte.com.au/articles/simplify-stream-processing-with-serverless-apache-flink-from-confluent-and-deloitte) - `2024` - :books:
 
 ## Doordash
 
