@@ -45,6 +45,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 ## Airbnb
 
+- [Apache Flink® on Kubernetes](https://medium.com/airbnb-engineering/apache-flink-on-kubernetes-84425d66ee11) - `2024` - :books:
 - [Building production Flink jobs with Airstream at Airbnb - Pala Muthiah & Hao Wang](https://www.youtube.com/watch?v=mZwQ_SfrssI&ab_channel=FlinkForward) - `2019` - :books:
 
 ## Alibaba
