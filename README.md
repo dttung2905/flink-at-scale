@@ -30,6 +30,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 1. [Instacart](#instacart)
 1. [Lyft](#lyft)
 1. [Netflix](#netflix)
+1. [Ngrok](#ngrok)
 1. [Options Clearing Corporation](#options-clearing-corporation)
 1. [Palo Alto Network](#palo-alto-network)
 1. [Pinterest](#pinterest)
@@ -130,6 +131,10 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 - [Massive Scale Data Processing at Netflix using Flink - Snehal Nagmote & Pallavi Phadnis](https://www.youtube.com/watch?v=lC0d3gAPXaI&ab_channel=FlinkForward) - `2019` - :studio_microphone:
 - [Real-time Processing with Flink for Machine Learning at Netflix - Elliot Chow](https://www.youtube.com/watch?v=o4C7TDneH00&pp=ygUNZmxpbmsgbmV0ZmxpeA%3D%3D&ab_channel=FlinkForward) - `2019` - :studio_microphone:
 - [#FlinkForward SF 2017: Monal Daxini - Stream Processing with Flink at Netflix](https://www.youtube.com/watch?v=sPB8w-YXX1s&pp=ygUNZmxpbmsgbmV0ZmxpeA%3D%3D&ab_channel=FlinkForward) - `2017` - :studio_microphone:
+
+## Ngrok
+
+- [How we built ngrok's data platform](https://ngrok.com/blog-post/how-we-built-ngroks-data-platform#data-we-store) - `2024` - :books:
 
 ## Options Clearing Corporation
 
