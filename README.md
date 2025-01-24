@@ -28,6 +28,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 1. [GoTo](#goto)
 1. [Grab](#grab)
 1. [Instacart](#instacart)
+1. [Intuit](#intuit)
 1. [Lyft](#lyft)
 1. [Marshall Wace](#mashall-wace)
 1. [Mercedes-Benz](#mercedes-benz)
@@ -117,6 +118,10 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 ## Instacart
 
 - [Building a Flink Self-Serve Platform on Kubernetes at Scale](https://tech.instacart.com/building-a-flink-self-serve-platform-on-kubernetes-at-scale-c11ef19aef10) - `2023` - :books:
+
+## Intuit
+
+- [How Intuit Built a Self-serve Stream Processing Platform with Flink](https://www.ververica.com/blog/how-intuit-built-a-self-serve-stream-processing-platform-with-flink) - `2021` - :books:
 
 ## Lyft
 
