@@ -29,6 +29,8 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 1. [Grab](#grab)
 1. [Instacart](#instacart)
 1. [Lyft](#lyft)
+1. [Marshall Wace](#mashall-wace)
+1. [Mercedes-Benz](#mercedes-benz)
 1. [Netflix](#netflix)
 1. [Ngrok](#ngrok)
 1. [Options Clearing Corporation](#options-clearing-corporation)
@@ -37,6 +39,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 1. [Reddit](#reddit)
 1. [Salesforce](#salesforce)
 1. [Shopify](#shopify)
+1. [Stripe](#stripe)
 1. [Uber](#uber)
 1. [Yelp](#yelp)
 1. [Zalando](#zalando)
@@ -108,6 +111,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 ## Grab
 
+- [Leveraging ML Forecast Models for Predictive Resource Provisioning in Flink Applications](https://www.ververica.academy/courses/3d163483-5040-4d60-b5b3-755c3277edf7/activities/501d9738-bb23-4194-adbb-cb439fb82590) - `2024` - :studio_microphone:
 - [Safer deployment of streaming applications](https://engineering.grab.com/safer-flink-deployments) - `2023` - :books:
 
 ## Instacart
@@ -118,6 +122,14 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 - [Where’s My Data — A Unique Encounter with Flink Streaming’s Kinesis Connector](https://eng.lyft.com/wheres-my-data-a-unique-encounter-with-flink-streaming-s-kinesis-connector-6da3b11b164a) - `2023` - :books:
 - [How Lyft built a streaming data platform with Flink on Kubernetes - Micah Wylde](https://www.youtube.com/watch?v=scv_u4lg8qg&ab_channel=FlinkForward) - `2020` - :studio_microphone:
+
+## Marshall Wace
+
+- [Building a Streaming-First Platform: Tools and Lessons from Our Flink Migration Journey](https://www.ververica.academy/courses/3d163483-5040-4d60-b5b3-755c3277edf7/activities/43766bf6-2cb6-40f1-8833-f1274d03d4da) - `2024` - :studio_microphone:
+
+## Mercedes-Benz
+
+- [Implementing Event Tracing in Flink Applications ](https://www.ververica.academy/courses/3d163483-5040-4d60-b5b3-755c3277edf7/activities/505bdc9e-39d5-4de6-9f06-166811b6120c) - `2024` - :studio_microphone:
 
 ## Netflix
 
@@ -146,6 +158,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 ## Pinterest
 
+- [Customize Flink for Pinterest User Cases at Scale](https://www.ververica.academy/courses/3d163483-5040-4d60-b5b3-755c3277edf7/activities/3c56d732-b68d-457b-937c-d428fb93bef5) - `2024` - :studio_microphone:
 - [Tuning Flink Clusters for Stability and Efficiency](https://medium.com/pinterest-engineering/tuning-flink-clusters-for-stability-and-efficiency-50d3d50384ed) - `2023` - :books:
 - [Pinterest Flink Deployment Framework](https://medium.com/pinterest-engineering/pinterest-flink-deployment-framework-512c6cd4a1b7) - `2021` - :books:
 - [Detecting Image Similarity in (Near) Real-time Using Apache Flink](https://medium.com/pinterest-engineering/detecting-image-similarity-in-near-real-time-using-apache-flink-723ce072b7d2) - `2021` - :books:
@@ -168,8 +181,13 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 - [3 (More) Tips for Optimizing Apache Flink Applications](https://shopify.engineering/optimizing-apache-flink-tips-part-two) - `2022` - :books:
 - [Scaling Shopify's BFCM Live Map: An Apache Flink Redesign](https://shopify.engineering/bfcm-live-map-2021-apache-flink-redesign) - `2021` - :books:
 
+## Stripe
+
+- [Scaling Flink in the Real World: Insights from Running Flink for five years at Stripe]( https://www.ververica.academy/courses/3d163483-5040-4d60-b5b3-755c3277edf7/activities/6228974e-7e96-4f68-9db1-646bbaa82cd7) - `2024` - :studio_microphone:
+
 ## Uber
 
+- [Streamlining Real-Time Data Processing at Uber with Protobuf Integration](https://www.ververica.academy/courses/3d163483-5040-4d60-b5b3-755c3277edf7/activities/1ad34712-e52b-4169-a9d0-1cdc29c2c8f2) - `2024` - :studio_microphone:
 - [Protobuf Support in Uber's Real-Time Data Stack](https://current.confluent.io/2024-sessions/protobuf-support-in-ubers-real-time-data-stack) - `2024` - :studio_microphone:
 - [Driving Real-Time Data Solutions: Insights from Uber's Na Yang](https://www.ververica.com/blog/driving-real-time-data-solutions-insights-from-ubers-na-yang) - `2024` - :books:
 - [Real-Time Exactly-Once Ad Event Processing with Apache Flink, Kafka, and Pinot](https://www.uber.com/en-GB/blog/real-time-exactly-once-ad-event-processing/) - `2021` - :books:
