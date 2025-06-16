@@ -112,6 +112,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 ## Grab
 
+- [The complete stream processing journey on FlinkSQL](https://engineering.grab.com/the-complete-stream-processing-journey-on-flinksql) - `2025` - :books:
 - [Leveraging ML Forecast Models for Predictive Resource Provisioning in Flink Applications](https://www.ververica.academy/courses/3d163483-5040-4d60-b5b3-755c3277edf7/activities/501d9738-bb23-4194-adbb-cb439fb82590) - `2024` - :studio_microphone:
 - [Safer deployment of streaming applications](https://engineering.grab.com/safer-flink-deployments) - `2023` - :books:
 
