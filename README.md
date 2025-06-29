@@ -21,6 +21,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 1. [Booking](#booking)
 1. [ContentSquare](#contentsquare)
 1. [Criteo](#criteo)
+1. [Daimler Truck](#daimler-truck)
 1. [Deliveroo](#deliveroo)
 1. [Deloitte](#Deloitte)
 1. [Doordash](#doordash)
@@ -39,9 +40,11 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 1. [Pinterest](#pinterest)
 1. [Reddit](#reddit)
 1. [Salesforce](#salesforce)
+1. [Sharechat](#sharechat)
 1. [Shopify](#shopify)
 1. [Stripe](#stripe)
 1. [Uber](#uber)
+1. [Wix](#wix)
 1. [Yelp](#yelp)
 1. [Zalando](#zalando)
 1. [Zhongyuan Bank](#zhongyuan-bank)
@@ -88,6 +91,10 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 ## Criteo
 
 - [Data Streaming with Flink](https://medium.com/criteo-engineering/criteo-streaming-flink-31816c08da50) - `2018` - :books:
+
+## Daimler Truck
+
+- [HALO Jumping into Flink: Lessons learned from managing real-time data at Daimler Truck](https://current.confluent.io/post-conference-videos-2025/halo-jumping-into-flink-lessons-learned-from-managing-real-time-data-at-daimler-truck-lnd25) - `2025` - :studio_microphone:
 
 ## Deliveroo
 
@@ -139,6 +146,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 ## Netflix
 
+- [Democratising Stream Processing: How Netflix Empowers Teams with Data Mesh and Streaming SQL](https://current.confluent.io/post-conference-videos-2025/democratising-stream-processing-how-netflix-empowers-teams-with-data-mesh-and-streaming-sql-lnd25) - `2025` - :studio_microphone:
 - [Building a Scalable Flink Platform: A Tale of 15,000 Jobs at Netflix](https://current.confluent.io/2024-sessions/building-a-scalable-flink-platform-a-tale-of-15-000-jobs-at-netflix) - `2024` - :studio_microphone:
 - [Streaming SQL in Data Mesh](https://netflixtechblog.com/streaming-sql-in-data-mesh-0d83f5a00d08) - `2023` - :books:
 - [2021 Apache Flink Meetup - Hosted by Netflix](https://www.youtube.com/watch?v=rtz3p_iijP8&t=2420s&ab_channel=NetflixData) - `2021` - :studio_microphone:
@@ -164,6 +172,8 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 ## Pinterest
 
+- [FlinkSQL Powered Asynchronous Data Processing in Pinterest’s Rule Engine Platform](https://current.confluent.io/post-conference-videos-2025/flinksql-powered-asynchronous-data-processing-in-pinterests-rule-engine-platform-lnd25) - `2025` - :studio_microphone:
+- [Building a scalable and efficient real-time event counter framework with Flink(SQL) and Kafka](https://current.confluent.io/post-conference-videos-2025/building-a-scalable-and-efficient-real-time-event-counter-framework-with-flink-sql-and-kafka-lnd25) - `2025` - :studio_microphone:
 - [Customize Flink for Pinterest User Cases at Scale](https://www.ververica.academy/courses/3d163483-5040-4d60-b5b3-755c3277edf7/activities/3c56d732-b68d-457b-937c-d428fb93bef5) - `2024` - :studio_microphone:
 - [Tuning Flink Clusters for Stability and Efficiency](https://medium.com/pinterest-engineering/tuning-flink-clusters-for-stability-and-efficiency-50d3d50384ed) - `2023` - :books:
 - [Pinterest Flink Deployment Framework](https://medium.com/pinterest-engineering/pinterest-flink-deployment-framework-512c6cd4a1b7) - `2021` - :books:
@@ -180,6 +190,10 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 ## Salesforce
 
 - [Application Log Intelligence & Performance Insights at Salesforce using Flink](https://engineering.salesforce.com/application-log-intelligence-performance-insights-at-salesforce-using-flink-92955f30573f/) - `2023` - :books:
+
+## Sharechat
+
+- [How We Replaced Node.js with Apache Flink for Real-Time Deduplication and Cut Costs by 7x](https://current.confluent.io/post-conference-videos-2025/how-we-replaced-node-js-with-apache-flink-for-real-time-deduplication-and-cut-costs-by-7x-lnd25) - `2025` - :studio_microphone:
 
 ## Shopify
 
@@ -204,6 +218,10 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 - [Building Flink As a Service platform at Uber - Shuyi Chen & Rong Rong](https://www.youtube.com/watch?v=VX3S9POGAdU&ab_channel=FlinkForward) - `2019` - :studio_microphone:
 - [Practical Experience running Flink in Production - Shuyi Chen & Rong Rong](https://www.youtube.com/watch?v=eBrjgU-sjwM&ab_channel=FlinkForward) - `2019` - :studio_microphone:
 - [#FlinkForward SF 2017: Liu & Mai - AthenaX: Uber’s streaming processing platform on Flink](https://www.youtube.com/watch?v=VURuT8GbExo&ab_channel=FlinkForward) - `2017` - :studio_microphone:
+
+## Wix
+
+- [Before and After: Transforming Wix’s Online Feature Store with Apache Flink](https://current.confluent.io/post-conference-videos-2025/before-and-after-transforming-wixs-online-feature-store-with-apache-flink-lnd25) - `2025` - :studio_microphone:
 
 ## Yelp 
 - [Flink on PaaSTA: Yelp’s new stream processing platform runs on Kubernetes](https://engineeringblog.yelp.com/2020/10/flink-on-paasta.html) - `2020` - :books:
