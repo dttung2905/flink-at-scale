@@ -30,6 +30,8 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 1. [Grab](#grab)
 1. [Instacart](#instacart)
 1. [Intuit](#intuit)
+1. [Lazada](#lazada)
+1. [LinkedIn](#linkedin)
 1. [Lyft](#lyft)
 1. [Marshall Wace](#mashall-wace)
 1. [Mercedes-Benz](#mercedes-benz)
@@ -119,6 +121,8 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 ## Grab
 
+- [From Data Streams to Actionable Insights: Grab’s Journey in Real-Time Analytics and Data Quality](https://www.youtube.com/watch?v=3Nq6mzcjQFo) - `2025` - :studio_microphone:
+- [Flink Forward Singapore 2025: Enhancing Flink Deployment with Downtime-Free Shadow Testing](https://www.youtube.com/watch?v=790dWRvcES4) - `2025` - :studio_microphone:
 - [The complete stream processing journey on FlinkSQL](https://engineering.grab.com/the-complete-stream-processing-journey-on-flinksql) - `2025` - :books:
 - [Leveraging ML Forecast Models for Predictive Resource Provisioning in Flink Applications](https://www.ververica.academy/courses/3d163483-5040-4d60-b5b3-755c3277edf7/activities/501d9738-bb23-4194-adbb-cb439fb82590) - `2024` - :studio_microphone:
 - [Safer deployment of streaming applications](https://engineering.grab.com/safer-flink-deployments) - `2023` - :books:
@@ -130,6 +134,15 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 ## Intuit
 
 - [How Intuit Built a Self-serve Stream Processing Platform with Flink](https://www.ververica.com/blog/how-intuit-built-a-self-serve-stream-processing-platform-with-flink) - `2021` - :books:
+
+## Lazada
+
+- [Building an Efficient Product Selection Platform for Lazada based on Flink + Hologres](https://www.youtube.com/watch?v=94uGqFhpfCA) - `2025` - :studio_microphone:
+
+## LinkedIn
+
+- [Charting New Territory: LinkedIn’s Early Bet on Flink Batch for Large-Scale Workloads](https://www.youtube.com/watch?v=6StOF5ygfaQ) - `2025` - :studio_microphone:
+- [Flink Forward Singapore 2025: Secret Sauce of Stream & Batch Convergence at Linkedin](https://www.youtube.com/watch?v=ZPfwCGxY3dQ) - `2025` - :studio_microphone:
 
 ## Lyft
 
@@ -189,6 +202,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 ## Salesforce
 
+- [From Logs to Logic: A Structured Event System for Flink Observability and AIOps](https://www.youtube.com/watch?v=TbIRAGgn05w) - `2025` - :studio_microphone:
 - [Application Log Intelligence & Performance Insights at Salesforce using Flink](https://engineering.salesforce.com/application-log-intelligence-performance-insights-at-salesforce-using-flink-92955f30573f/) - `2023` - :books:
 
 ## Sharechat
