@@ -80,6 +80,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 ## Bloomberg
 
+- [Keep Calm and Flink On: Disaster Proofing Apache Flink](https://www.youtube.com/watch?v=_W_uhnK1G1I&list=PLDX4T_cnKjD0QNHMgZa-APcaDrYmY7N9a&index=4) - `2025` - :studio_microphone:
 - [3 Lessons We Learned Running Stateful Streaming Pipelines with Apache Flink and Kafka](https://current.confluent.io/2024-sessions/3-lessons-we-learned-running-stateful-streaming-pipelines-with-apache-flink-and-kafka) - `2024` - :studio_microphone:
 
 ## Booking
