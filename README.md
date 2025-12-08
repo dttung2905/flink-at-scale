@@ -24,6 +24,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 1. [Daimler Truck](#daimler-truck)
 1. [Deliveroo](#deliveroo)
 1. [Deloitte](#Deloitte)
+1. [Discord](#discord)
 1. [Doordash](#doordash)
 1. [Ebay](#ebay)
 1. [GoTo](#goto)
@@ -37,10 +38,12 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 1. [Mercedes-Benz](#mercedes-benz)
 1. [Netflix](#netflix)
 1. [Ngrok](#ngrok)
+1. [OpenAI](#openai)
 1. [Options Clearing Corporation](#options-clearing-corporation)
 1. [Palo Alto Network](#palo-alto-network)
 1. [Pinterest](#pinterest)
 1. [Reddit](#reddit)
+1. [Rivian Volkswagen](#rivian-volkswagen)
 1. [Salesforce](#salesforce)
 1. [Sharechat](#sharechat)
 1. [Shopify](#shopify)
@@ -108,6 +111,10 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 - [Simplify Stream Processing With Serverless Apache Flink® From Confluent and Deloitte](https://engineering.deloitte.com.au/articles/simplify-stream-processing-with-serverless-apache-flink-from-confluent-and-deloitte) - `2024` - :books:
 
+## Discord 
+
+- [Scaling the Past: Productionalizing the Flink History Server for Stream and Batch](https://current.confluent.io/post-conference-videos-25/scaling-the-past-productionalizing-the-flink-history-server-for-stream-and-batch-e-nola25) - `2025` - :studio_microphone:
+
 ## Doordash
 
 - [Building Scalable Real Time Event Processing with Kafka and Flink](https://doordash.engineering/2022/08/02/building-scalable-real-time-event-processing-with-kafka-and-flink/) - `2022` - :books:
@@ -142,6 +149,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 ## LinkedIn
 
+- [Scaling Streaming Computation at LinkedIn: A Multi-Year Journey with Apache Flink](https://current.confluent.io/post-conference-videos-25/scaling-streaming-computation-at-linkedin-a-multi-year-journey-with-apache-flink-e-nola25) - `2025` - :studio_microphone:
 - [Charting New Territory: LinkedIn’s Early Bet on Flink Batch for Large-Scale Workloads](https://www.youtube.com/watch?v=6StOF5ygfaQ) - `2025` - :studio_microphone:
 - [Flink Forward Singapore 2025: Secret Sauce of Stream & Batch Convergence at Linkedin](https://www.youtube.com/watch?v=ZPfwCGxY3dQ) - `2025` - :studio_microphone:
 
@@ -176,6 +184,9 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 - [How we built ngrok's data platform](https://ngrok.com/blog-post/how-we-built-ngroks-data-platform#data-we-store) - `2024` - :books:
 
+## OpenAI
+- [StreamLink: Real-Time Data Ingestion at OpenAI Scale](https://current.confluent.io/post-conference-videos-25/streamlink-real-time-data-ingestion-at-openai-scale-e-nola25) - `2025` - :studio_microphone:
+
 ## Options Clearing Corporation
 
 - [How the World's Largest Options Clearinghouse Moved From Batch to Stream Processing to Manage Risk](https://current.confluent.io/2024-sessions/how-the-worlds-largest-options-clearinghouse-moved-from-batch-to-stream-processing-to-manage-risk) - `2024` - :studio_microphone:
@@ -196,8 +207,12 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 - [Faster Flink adoption with self-service diagnosis tool at Pinterest](https://medium.com/pinterest-engineering/faster-flink-adoption-with-self-service-diagnosis-tool-at-pinterest-50a07143f444) - `2021` - :books:
 - [Real-time experiment analytics at Pinterest using Apache Flink](https://medium.com/pinterest-engineering/real-time-experiment-analytics-at-pinterest-using-apache-flink-841c8df98dc2) - `2019` - :books:
 
+## Rivian Volkswagen
+- [Powering Real-Time Vehicle Intelligence at Rivian with Apache Flink](https://current.confluent.io/post-conference-videos-25/powering-real-time-vehicle-intelligence-at-rivian-with-apache-flink-e-nola25) - `2025` - :studio_microphone:
+
 ## Reddit
 
+- [How Reddit Uses Flink Stream Joins in Its Real-Time Safety Systems](https://current.confluent.io/post-conference-videos-25/how-reddit-uses-flink-stream-joins-in-its-real-time-safety-systems-e-nola25) - `2025` - :studio_microphone:
 - [Protecting Reddit Users in Real Time at Scale](https://www.reddit.com/r/RedditEng/comments/16m3t7m/protecting_reddit_users_in_real_time_at_scale/) - `2023` - :books:
 - [Keeping Redditors safe in real-time with Flink Stateful Functions](https://www.youtube.com/watch?v=lWCt4t1Dhvc) - `2021` - :studio_microphone:
 
