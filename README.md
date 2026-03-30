@@ -149,6 +149,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 ## LinkedIn
 
+- [Powering Stateful Joins at Scale with Flink SQL at Linkedin](https://www.youtube.com/watch?v=4PZYIuMR3GE&t=4200s) - `2026` - :studio_microphone:
 - [Scaling Streaming Computation at LinkedIn: A Multi-Year Journey with Apache Flink](https://current.confluent.io/post-conference-videos-25/scaling-streaming-computation-at-linkedin-a-multi-year-journey-with-apache-flink-e-nola25) - `2025` - :studio_microphone:
 - [Charting New Territory: LinkedIn’s Early Bet on Flink Batch for Large-Scale Workloads](https://www.youtube.com/watch?v=6StOF5ygfaQ) - `2025` - :studio_microphone:
 - [Flink Forward Singapore 2025: Secret Sauce of Stream & Batch Convergence at Linkedin](https://www.youtube.com/watch?v=ZPfwCGxY3dQ) - `2025` - :studio_microphone:
