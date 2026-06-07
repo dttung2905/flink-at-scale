@@ -123,12 +123,17 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 - [eBay monitoring platform preprocessing and alerting on Flink - Garrett Li](https://www.youtube.com/watch?v=KTran5SM9fw&ab_channel=FlinkForward) - `2018` - :studio_microphone:
 
+## Gorgias
+
+- [When Event Time Meets Reality: Lessons from Building Billing on Apache Flink](https://medium.com/gorgias-engineering/when-event-time-meets-reality-lessons-from-building-billing-on-apache-flink-581ff895c60d) - `2016` - :books:
+
 ## GoTo
 
 - [Managing Flink operations at GoJek - Ravi Suhag & Sumanth Nakshatrithaya](https://www.youtube.com/watch?v=9WmM-f3OjeM&ab_channel=FlinkForward) - `2018` - :studio_microphone:
 
 ## Grab
 
+- [Enhancing Flink deployment with shadow testing](https://engineering.grab.com/enchancing-flink-shadow-testing) - `2026` - :books:
 - [From Data Streams to Actionable Insights: Grab’s Journey in Real-Time Analytics and Data Quality](https://www.youtube.com/watch?v=3Nq6mzcjQFo) - `2025` - :studio_microphone:
 - [Flink Forward Singapore 2025: Enhancing Flink Deployment with Downtime-Free Shadow Testing](https://www.youtube.com/watch?v=790dWRvcES4) - `2025` - :studio_microphone:
 - [The complete stream processing journey on FlinkSQL](https://engineering.grab.com/the-complete-stream-processing-journey-on-flinksql) - `2025` - :books:
