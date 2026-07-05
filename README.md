@@ -19,6 +19,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 1. [Apple](#apple)
 1. [Bloomberg](#bloomberg)
 1. [Booking](#booking)
+1. [Cisco](#cisco)
 1. [ContentSquare](#contentsquare)
 1. [Criteo](#criteo)
 1. [Daimler Truck](#daimler-truck)
@@ -27,6 +28,8 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 1. [Discord](#discord)
 1. [Doordash](#doordash)
 1. [Ebay](#ebay)
+1. [E.ON](#eon)
+1. [FanDuel](#fanduel)
 1. [GoTo](#goto)
 1. [Grab](#grab)
 1. [Instacart](#instacart)
@@ -49,6 +52,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 1. [Shopify](#shopify)
 1. [Stripe](#stripe)
 1. [Uber](#uber)
+1. [Vinted](#vinted)
 1. [Wix](#wix)
 1. [Yelp](#yelp)
 1. [Zalando](#zalando)
@@ -90,6 +94,10 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 - [Flink Forward SF 2022: Keynote: Apache Flink as a security data processing engine at Booking.com](https://www.youtube.com/watch?v=-wSbb4JSuZU&ab_channel=FlinkForward) - `2022` - :studio_microphone:
 
+## Cisco
+
+- [Thinking in Streams: Building Stateful, Serverless Agentic Loops](https://current.confluent.io/post-conference-videos-26/thinking-in-streams-building-stateful-serverless-agentic-loops-ldn26) - `2026` - :studio_microphone:
+
 ## ContentSquare
 
 - [Ten Flink Gotchas we wish we had known](https://engineering.contentsquare.com/2021/ten-flink-gotchas/) - `2021` - :books:
@@ -123,6 +131,14 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 - [eBay monitoring platform preprocessing and alerting on Flink - Garrett Li](https://www.youtube.com/watch?v=KTran5SM9fw&ab_channel=FlinkForward) - `2018` - :studio_microphone:
 
+## E.ON
+
+- [Towards Interoperable Intelligence: Streaming Foundations for Multi‑Agent Systems](https://current.confluent.io/post-conference-videos-26/towards-interoperable-intelligence-streaming-foundations-for-multiagent-systems-ldn26) - `2026` - :studio_microphone:
+
+## FanDuel
+
+- [Chaos to Golden Path - How FanDuel's Eventing Strategy Transformed Enterprise Event Streaming](https://current.confluent.io/post-conference-videos-26/chaos-to-golden-path-how-fanduels-eventing-strategy-transformed-enterprise-event-streaming-ldn26) - `2026` - :studio_microphone:
+
 ## Gorgias
 
 - [When Event Time Meets Reality: Lessons from Building Billing on Apache Flink](https://medium.com/gorgias-engineering/when-event-time-meets-reality-lessons-from-building-billing-on-apache-flink-581ff895c60d) - `2016` - :books:
@@ -154,6 +170,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 ## LinkedIn
 
+- [Flink Beyond Streaming: Building a Production-Ready Batch Platform at LinkedIn](https://current.confluent.io/post-conference-videos-26/flink-beyond-streaming-building-a-productionready-batch-platform-at-linkedin-ldn26) - `2026` - :studio_microphone:
 - [Powering Stateful Joins at Scale with Flink SQL at Linkedin](https://www.youtube.com/watch?v=4PZYIuMR3GE&t=4200s) - `2026` - :studio_microphone:
 - [Scaling Streaming Computation at LinkedIn: A Multi-Year Journey with Apache Flink](https://current.confluent.io/post-conference-videos-25/scaling-streaming-computation-at-linkedin-a-multi-year-journey-with-apache-flink-e-nola25) - `2025` - :studio_microphone:
 - [Charting New Territory: LinkedIn’s Early Bet on Flink Batch for Large-Scale Workloads](https://www.youtube.com/watch?v=6StOF5ygfaQ) - `2025` - :studio_microphone:
@@ -191,6 +208,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 - [How we built ngrok's data platform](https://ngrok.com/blog-post/how-we-built-ngroks-data-platform#data-we-store) - `2024` - :books:
 
 ## OpenAI
+- [Dynamic Kafka, Static Sleep: Taming Multi-Cluster Streams with Flink at OpenAI](https://current.confluent.io/post-conference-videos-26/dynamic-kafka-static-sleep-taming-multicluster-streams-with-flink-at-openai-ldn26) - `2026` - :studio_microphone:
 - [StreamLink: Real-Time Data Ingestion at OpenAI Scale](https://current.confluent.io/post-conference-videos-25/streamlink-real-time-data-ingestion-at-openai-scale-e-nola25) - `2025` - :studio_microphone:
 
 ## Options Clearing Corporation
@@ -254,6 +272,10 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 - [Building Flink As a Service platform at Uber - Shuyi Chen & Rong Rong](https://www.youtube.com/watch?v=VX3S9POGAdU&ab_channel=FlinkForward) - `2019` - :studio_microphone:
 - [Practical Experience running Flink in Production - Shuyi Chen & Rong Rong](https://www.youtube.com/watch?v=eBrjgU-sjwM&ab_channel=FlinkForward) - `2019` - :studio_microphone:
 - [#FlinkForward SF 2017: Liu & Mai - AthenaX: Uber’s streaming processing platform on Flink](https://www.youtube.com/watch?v=VURuT8GbExo&ab_channel=FlinkForward) - `2017` - :studio_microphone:
+
+## Vinted
+
+- [Beyond Watermarks: Custom Flink Operators for Feature-Trigger Synchronization](https://current.confluent.io/post-conference-videos-26/beyond-watermarks-custom-flink-operators-for-featuretrigger-synchronization-ldn26) - `2026` - :studio_microphone:
 
 ## Wix
 
