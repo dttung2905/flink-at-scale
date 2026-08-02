@@ -170,6 +170,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 ## LinkedIn
 
+- [Flink Issues Classification Engine](https://www.youtube.com/watch?v=CCby-JPjeHI&t=4416s) - `2026` - :studio_microphone:
 - [Flink Beyond Streaming: Building a Production-Ready Batch Platform at LinkedIn](https://current.confluent.io/post-conference-videos-26/flink-beyond-streaming-building-a-productionready-batch-platform-at-linkedin-ldn26) - `2026` - :studio_microphone:
 - [Powering Stateful Joins at Scale with Flink SQL at Linkedin](https://www.youtube.com/watch?v=4PZYIuMR3GE&t=4200s) - `2026` - :studio_microphone:
 - [Scaling Streaming Computation at LinkedIn: A Multi-Year Journey with Apache Flink](https://current.confluent.io/post-conference-videos-25/scaling-streaming-computation-at-linkedin-a-multi-year-journey-with-apache-flink-e-nola25) - `2025` - :studio_microphone:
@@ -191,6 +192,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 ## Netflix
 
+- [Modernizing Flink Jobs at Scale](https://www.youtube.com/watch?v=CCby-JPjeHI&t=2400s) - `2026` - :studio_microphone:
 - [Democratising Stream Processing: How Netflix Empowers Teams with Data Mesh and Streaming SQL](https://current.confluent.io/post-conference-videos-2025/democratising-stream-processing-how-netflix-empowers-teams-with-data-mesh-and-streaming-sql-lnd25) - `2025` - :studio_microphone:
 - [Building a Scalable Flink Platform: A Tale of 15,000 Jobs at Netflix](https://current.confluent.io/2024-sessions/building-a-scalable-flink-platform-a-tale-of-15-000-jobs-at-netflix) - `2024` - :studio_microphone:
 - [Streaming SQL in Data Mesh](https://netflixtechblog.com/streaming-sql-in-data-mesh-0d83f5a00d08) - `2023` - :books:
@@ -281,7 +283,8 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 - [Before and After: Transforming Wix’s Online Feature Store with Apache Flink](https://current.confluent.io/post-conference-videos-2025/before-and-after-transforming-wixs-online-feature-store-with-apache-flink-lnd25) - `2025` - :studio_microphone:
 
-## Yelp 
+## Yelp
+
 - [Flink on PaaSTA: Yelp’s new stream processing platform runs on Kubernetes](https://engineeringblog.yelp.com/2020/10/flink-on-paasta.html) - `2020` - :books:
 - [Realtime bot detection with Flink](https://www.youtube.com/watch?v=1GefkDe7Ul8&ab_channel=FlinkForward) - `2020` - :studio_microphone:
 - [Kubernetes + Operator + PaaSTA = Flink @ Yelp - Antonio Verardi](https://www.youtube.com/watch?v=hL5nNAMx8Bk&ab_channel=FlinkForward) - `2019` - :studio_microphone:
@@ -291,6 +294,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 ## Zalando
 
+- [From Homegrown to Flink: Migrating a Stateful Ad Event Join at Scale](https://engineering.zalando.com/posts/2026/07/migrating-ad-event-processing-to-flink.html) - `2026` - :books:
 - [Running Apache Flink on Kubernetes](https://engineering.zalando.com/posts/2019/03/running-apache-flink-on-kubernetes.html) - `2019` - :books:
 - [Complex Event Generation for Business Process Monitoring using Apache Flink](https://engineering.zalando.com/posts/2017/07/complex-event-generation-for-business-process-monitoring-using-apache-flink.html) - `2017` - :books:
 
