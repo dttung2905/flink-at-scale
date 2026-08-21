@@ -192,7 +192,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 ## Netflix
 
-- [A Tale of Two Flink Autoscalers](https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b) - `2026` - :studio_microphone:
+- [A Tale of Two Flink Autoscalers](https://netflixtechblog.com/a-tale-of-two-flink-autoscalers-e9f6a1b1492b) - `2026` - :books:
 - [Modernizing Flink Jobs at Scale](https://www.youtube.com/watch?v=CCby-JPjeHI&t=2400s) - `2026` - :studio_microphone:
 - [Democratising Stream Processing: How Netflix Empowers Teams with Data Mesh and Streaming SQL](https://current.confluent.io/post-conference-videos-2025/democratising-stream-processing-how-netflix-empowers-teams-with-data-mesh-and-streaming-sql-lnd25) - `2025` - :studio_microphone:
 - [Building a Scalable Flink Platform: A Tale of 15,000 Jobs at Netflix](https://current.confluent.io/2024-sessions/building-a-scalable-flink-platform-a-tale-of-15-000-jobs-at-netflix) - `2024` - :studio_microphone:
