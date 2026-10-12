@@ -179,6 +179,7 @@ Are you new to the world of stream data processing ? Or are you looking for refe
 
 ## Lyft
 
+- [Rerouting the Stream: How Lyft Moved to the Apache Flink Operator](https://eng.lyft.com/rerouting-the-stream-how-lyft-moved-to-the-apache-flink-operator-36f20246d250) - `2026` - :books:
 - [Where’s My Data — A Unique Encounter with Flink Streaming’s Kinesis Connector](https://eng.lyft.com/wheres-my-data-a-unique-encounter-with-flink-streaming-s-kinesis-connector-6da3b11b164a) - `2023` - :books:
 - [How Lyft built a streaming data platform with Flink on Kubernetes - Micah Wylde](https://www.youtube.com/watch?v=scv_u4lg8qg&ab_channel=FlinkForward) - `2020` - :studio_microphone:
 
